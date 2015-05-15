@@ -1,0 +1,104 @@
+body {
+ background-color: #FEFEF2;   
+}
+
+.cover h1{
+  text-align: center;  
+  position: relative;
+  top:120px;
+  color: pink;
+  text-outline: 10px  #000000;
+  font-family:"lucida calligraphy",arial,'sans serif'; 
+  font-size: 50px;
+}
+
+.cover p{
+  position: relative;
+  top:210px;
+  font-size: 16px;
+}
+
+.followUs li {
+  display: inline;
+}
+
+.followUs a {
+  color: #5a5a5a;
+  font-size: 14px;
+  padding: 90px;
+  text-align: right;
+}
+
+#logo {
+ float:left;   
+ margin: 20px;
+}
+
+.separator { 
+        height:2px;
+        width:1350px;
+        border-bottom:1px dashed #333;
+        display:block;
+        margin:10px 0;
+      }
+
+.icecreamContainer {
+  text-align: left;
+  margin:20px;
+}
+
+#icecreamDonut {
+    height:auto; 
+    width:auto; 
+    max-width:300px; 
+    max-height:300px;
+    float:right;   
+    margin: 10px;
+}
+
+#filledDonut {
+    height:auto; 
+    width:auto; 
+    max-width:300px; 
+    max-height:300px;
+    float:right;   
+    margin: 5px;
+}
+
+#rackOfDonuts {
+    height:auto; 
+    width:auto; 
+    max-width:300px; 
+    max-height:300px;
+    float:right;   
+    margin: 5px;
+}
+
+#oreoDonut {
+    height:auto; 
+    width:auto; 
+    max-width:300px; 
+    max-height:300px;
+    float:right;   
+    margin: 5px;
+}
+
+#cakeDonuts {
+    height:auto; 
+    width:auto; 
+    max-width:300px; 
+    max-height:270px;
+    float:right;   
+    margin: 5px;
+}
+
+.ending h1 {
+    margin: 5px;
+    font-family:"lucida calligraphy",arial,'sans serif'; 
+  font-size: 50px;
+}
+
+.ending p {
+    margin: 20px;
+    font-size: 30px;
+}
