@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/bootstrap.css">
+	<link rel='stylesheet' href='style.css'/>
+	<script src='script.js'></script>
+</head>
+
+<body>
+
+    <div class="followUs">
+      <div class="container">
+        <ul>
+          <li><a href="https://twitter.com/cjddonuts">Twitter</a></li>
+          <li><a href="https://www.facebook.com/pages/Chattanoogas-Julie-Darling-Donuts/299482711517?fref=ts">Facebook</a></li>
+          <li><a href="https://instagram.com/juliedarlingdonuts/">Instagram</a></li>
+          <li><a href="http://www.yelp.com/biz/julie-darling-donuts-chattanooga">Yelp</a></li>
+        </ul>
+      </div>
+    </div>
+    
+<div class="cover">
+    <div class="container">
+    <img id="logo" style="height:auto; width:auto; max-width:400px; max-height:400px;" src="https://pbs.twimg.com/profile_images/2350170354/lx4hayq5mn6nrm076crk.jpeg">
+        <h1> Making Chattanooga a Sweeter place to be</h1>
+        <p>Call in to place orders for pickup, schedule donut parties or schedule a delivery <br> (423) 591-3737  --- or email: info@jddonuts.com <br>121 Frazier Avenue
+Chattanooga, TN </p>
+    </div>
+</div> 
+
+<div class="separator"></div>
+
+<div class="donuts">
+	<div class="rowContainer"> 
+	    <div class="col-md-4">
+			<h3> Cake Donuts</h3>
+			<p> Blueberry <br> Sour Cream <br> Buttermilk <br> Chocolate <br> Plain Cake <br><br> With Chocolate, Vanilla, Strawberry, or Maple Icing
+			</p>
+	    </div>
+	      
+		<div class="col-md-4">
+			<h3>Gourmet Donuts</h3>
+			<p> Granny's Apple Pie <br> Pancakes and Bacon <br> Red Velvet <br> Key Lime Pie <br> The Oreo <br> Salted Caramel <br> Strawberry Cheesecake</p>
+		</div>
+		  
+		 <div class="col-md-4">
+			<h3>Bismarks or Filled Donuts</h3>
+			<p>Rasberry <br> Lemon <br> Cream Cheese <br> Bavarian Cream <br> Vanilla Cream <br> Chocolate Cream <br> Key Lime <br> Banana Cream </p>
+		 </div>
+		 
+
+		<div class = "icecreamContainer">
+	        <h3>Milkshakes</h3>
+			<p> Choose one of our 16 delicious flavors of milkshakes that will get your taste buds tingling! 
+			<img id="icecreamDonut" src="https://scontent-atl.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/1185498_10152363940541518_489090536_n.jpg?oh=f6e9288fb1a8d12ad24418e5ea77e1fd&oe=5602A0E1">
+			</p>
+
+
+	      <h3>Ice Cream Sandwiches</h3>
+			<p> A glazed yeast donut cut in half and filled with your choices of chocolate vanilla or swirled soft serve ice cream.
+			<img id="filledDonut" src="https://scontent-atl.xx.fbcdn.net/hphotos-xft1/v/t1.0-9/11052889_10153188291281518_4813368117041245460_n.jpg?oh=a5e1e348dc7154c3009ae507952afdcd&oe=55C94B0A">
+            </p>
+
+
+          <h3>Donut Sundaes</h3>
+            <p> Pick a donut, pick a flavor of soft served ice cream(vanilla, chocolate or swirled), and pick your toppings.
+            </p>
+
+
+		  <h3>Eclairs</h3>
+		      <p> Satisfy your taste buds with the classic cream filled pastry
+		       <img id="oreoDonut" src="https://scontent-atl.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/10389289_10152920581661518_5953077422490866645_n.jpg?oh=9b326e53ff69d5eb6ac81f0a324af458&oe=55D6B5D3">
+		       
+		      <img id="rackOfDonuts" src="https://scontent-atl.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/10488007_10153164892161518_3187713738949944742_n.jpg?oh=27d1fdfdaaa3618d82e5cd4260d50bcb&oe=55C4E833">
+		     </p>
+
+		 <img id="cakeDonuts" src="https://scontent-atl.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/10370896_10152661954641518_8694063352447141260_n.jpg?oh=d203d409f79887859b439cac10068151&oe=55CC95C5">
+		 </div>
+		 
+		 <br><br><br><br><br><br><br><br><br><br><br><br><br><hr>
+		 <div class = "ending">
+           <h1> So stop on by!</h1>
+<img id="cakeDonuts" src="https://scontent-atl.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/1560456_10152208101221518_708602716_n.jpg?oh=3f14616f066df24552140611723db98d&oe=55CB4A29">
+           <p> Hours: <br> Monday-Thursday: 7am.-7pm. <br> Friday-Saturday: 7am.-9pm. <br> Sunday: Closed      
+           </p>
+          </div>
+
+	</div>
+</div>
+
+</body>
+</html>
